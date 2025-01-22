@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats-five-nu.vercel.app?user=apcodex&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-card.vercel.app?user=apcodex&theme=dark)](https://git.io/streak-stats)
 
 ###
 <h3 align="left">Connect with me:</h3>
